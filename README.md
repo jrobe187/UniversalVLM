@@ -1,5 +1,6 @@
 # 🚀 Universal VLM: Modular Embedding & Classification Pipeline
 
+[!NOTE]
 **Project Status:** Implementation code for [Project Name]. Currently under review for publication; full release forthcoming.
 
 ## ℹ️ Overview
