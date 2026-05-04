@@ -1,5 +1,7 @@
 # 🚀 Universal VLM: Modular Embedding & Classification Pipeline
 
+**Project Status:** Implementation code for [Project Name]. Currently under review for publication; full release forthcoming.
+
 ## ℹ️ Overview
 This framework provides an end-to-end pipeline for **cross-domain deepfake analysis**. It leverages state-of-the-art Vision-Language Models (VLMs) to extract high-dimensional embeddings, which are then used to train and evaluate linear classifiers for synthetic media detection.
 
